@@ -1,0 +1,21 @@
+# The URL the site will be built for
+base_url = "https://TiagonSantoss.github.io/4por4jgs/"
+
+title = "4por4jgs" 
+description = "jogos jogos jogos jogos"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "tabi"
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra] 
+author = "4por4jgs"
