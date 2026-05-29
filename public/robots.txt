@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://tiagonsantoss.github.io/4por4jgs/sitemap.xml
